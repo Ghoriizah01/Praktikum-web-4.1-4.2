@@ -1,0 +1,19 @@
+.header {
+    height: 80px;
+    background-color: lightgray;
+}
+.headerbar {
+    float: left;
+    list-style-type: square;
+}
+.headermenu {
+    float: left;
+    list-style: none;
+    padding: 27px 3px 20px 40px;
+
+}
+.headericon {
+    float: right;
+    padding: 25px 0px 10px 0px;
+
+}
